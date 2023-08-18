@@ -1,0 +1,37 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "954494921b98feefcec6c597912d41bfb45e59eaaff66701cd62120f176d9666"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.11"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "cymruwhois": {
+            "hashes": [
+                "sha256:0294accc8b0668abf5b33b6b5151fc3b1ff4d02f27549ffa258945ea9e53ccad",
+                "sha256:2cc3405117274138403d7f6ef60162154b8c7be5b39ac08ac06d0a650be3be94",
+                "sha256:b6c085e50e33133cd3718504521c780ed4d6b1e18e12c3bda6a0c949df7df254"
+            ],
+            "index": "pypi",
+            "version": "==1.6"
+        },
+        "scapy": {
+            "hashes": [
+                "sha256:5b260c2b754fd8d409ba83ee7aee294ecdbb2c235f9f78fe90bc11cb6e5debc2"
+            ],
+            "index": "pypi",
+            "version": "==2.5.0"
+        }
+    },
+    "develop": {}
+}
